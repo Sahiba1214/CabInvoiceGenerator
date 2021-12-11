@@ -32,5 +32,10 @@ namespace CabInvoiceGeneratorTests
         {
             throw new NotImplementedException();
         }
+
+        internal InvoiceSummary CalculateInvoiceSummary(Ride[] rides)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
